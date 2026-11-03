@@ -16,7 +16,7 @@
 > Скачивайте программы исключительно с официальных сайтов, чтобы избежать загрузки поддельных установщиков и потенциально вредоносных файлов.
 
 - **Equalizer APO** — [Скачать с официального сайта](https://sourceforge.net/projects/equalizerapo/)
-- **ReaPlugs VST FX Suite** — [Скачать с официального сайта](https://www.reaper.fm/reaplugs/)
+- **ReaPlugs VST FX** — [Скачать с официального сайта](https://www.reaper.fm/reaplugs/)
 
 ---
 
