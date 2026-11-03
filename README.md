@@ -61,7 +61,7 @@
 
    **📷 Визуальный пример — главное окно программы:**
 
-   <img width="1024" height="768" alt="Editor_hOH0bMeuqf" src="https://github.com/user-attachments/assets/dd7fe5b9-730f-4d94-83ca-edf35b07b4c2" />
+   <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/f5555681-6f71-4600-8695-891d1c87ee86" />
 
 2. Нажмите на зелёную кнопку **«+»**.
 
