@@ -58,14 +58,36 @@
 ## 3. Создание конфигурационного файла
 
 1. Откройте **Equalizer APO Configuration Editor**.
+
+   **📷 Визуальный пример — главное окно программы:**
+
+   <img width="1024" height="768" alt="Editor_hOH0bMeuqf" src="https://github.com/user-attachments/assets/dd7fe5b9-730f-4d94-83ca-edf35b07b4c2" />
+
 2. Нажмите на зелёную кнопку **«+»**.
+
 3. Выберите **Control → Include (Include configuration file)**.
+
+   **📷 Визуальный пример — меню добавления Include:**
+
+   <img width="434" height="207" alt="Editor_RxWPqVOKBI" src="https://github.com/user-attachments/assets/d7c77f0d-cffc-4430-bb93-e793eec52437" />
+
 4. Нажмите на значок голубой папки.
+
 5. В открывшемся окне выберите место для хранения конфигурации.
+
 6. Нажмите ПКМ по пустому пространству и выберите **Создать → Текстовый документ**.
+
+   **📷 Визуальный пример — создание текстового документа:**
+
+   <img width="670" height="359" alt="Editor_rZKFT0bBT1" src="https://github.com/user-attachments/assets/5061f0fd-9116-40b1-a80f-f76f108b6dff" />
+
 7. Назовите файл, например `Microphone`.
+
 8. Выберите созданный файл и нажмите **«Открыть»**.
-9. После добавления конфигурационного файла переместите его в нужное положение с помощью зелёной стрелки вверх, расположенной справа от значка папки.
+
+   **📷 Визуальный пример — выбор конфигурационного файла:**
+
+   <img width="1184" height="681" alt="Editor_A967HU21zE" src="https://github.com/user-attachments/assets/0e6a6a2c-34d6-4ea3-8450-328407bfbf17" />
 
 Теперь у вас есть отдельный конфигурационный файл, в котором можно хранить настройки микрофона.
 
@@ -84,10 +106,23 @@
 ## 4. Добавление ReaGate
 
 1. Нажмите зелёную кнопку **«+»**.
+
 2. Выберите **Plugins → VST plugin**.
+
+   **📷 Визуальный пример — добавление VST-плагина:**
+
+   <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/20f77771-c405-40ba-bb6f-b473f722c0ee" />
+
 3. Нажмите на значок голубой папки.
+
 4. Найдите файл `reagate-standalone.dll`.
+
+   **📷 Визуальный пример — выбор ReaGate:**
+
+   <img width="1186" height="713" alt="image" src="https://github.com/user-attachments/assets/5da63a02-0676-4acd-b91c-7f68bf970697" />
+
 5. Выберите его и нажмите **«Открыть»**.
+
 6. Откройте добавленный плагин ReaGate.
 
 ### Рекомендуемые настройки ReaGate
@@ -112,17 +147,26 @@
 
 **Визуальный пример настроек:**
 
-<img width="518" height="407" alt="2  ReaGate" src="https://github.com/user-attachments/assets/cee446d0-6c87-4a8d-916e-8aefc3c0280a" />
+<img width="518" height="407" alt="2  ReaGate" src="https://github.com/user-attachments/assets/3f9d4b85-09fd-41b5-829a-d4c15bbc8c5a" />
 
 ## 5. Добавление ReaComp
 
 После добавления ReaGate необходимо добавить компрессор.
 
 1. Нажмите зелёную кнопку **«+»**.
+
 2. Выберите **Plugins → VST plugin**.
+
 3. Нажмите на значок голубой папки.
+
 4. Найдите файл `reacomp-standalone.dll`.
+
+   **📷 Визуальный пример — выбор ReaComp:**
+
+   <img width="1186" height="713" alt="image" src="https://github.com/user-attachments/assets/f42c0ba5-cbf6-40c6-8582-867a5cd7b6a2" />
+
 5. Выберите его и нажмите **«Открыть»**.
+
 6. Откройте добавленный плагин ReaComp.
 
 ### Рекомендуемые настройки ReaComp
@@ -150,7 +194,7 @@
 
 **Визуальный пример настроек:**
 
-<img width="518" height="407" alt="7  ReaComp" src="https://github.com/user-attachments/assets/a9fb245c-7a37-4b18-a647-08eb1c42f569" />
+<img width="518" height="407" alt="7  ReaComp" src="https://github.com/user-attachments/assets/d028e497-abba-4165-bced-b3aca886e26e" />
 
 > [!WARNING]
 > Значение Wet `+10.0 dB` увеличивает уровень обработанного сигнала. Следите за индикатором выходного уровня и при необходимости уменьшите усиление, чтобы избежать перегрузки и клиппинга.
@@ -160,6 +204,10 @@
 # 📌 Правильный порядок VST-плагинов
 
 После добавления обоих плагинов обязательно проверьте их расположение в конфигурации.
+
+**📷 Визуальный пример — итоговое расположение плагинов:**
+
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/10ac2148-7f0e-4594-824e-87363dec5504" />
 
 Правильная последовательность обработки выглядит следующим образом:
 
