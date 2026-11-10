@@ -117,14 +117,10 @@
 | Hold | `60 ms` |
 | Release | `100 ms` |
 | Hysteresis | `+3.0 dB` |
-| Detector input | `Main Input L+R` |
 | Lowpass | `13000 Hz` |
 | Highpass | `80 Hz` |
 | RMS size | `1` |
 | Threshold | `-45.0 dB` |
-| Wet | `+0.0 dB` |
-| Dry | `-inf dB` |
-| Noise | `-inf dB` |
 
 **Визуальный пример настроек:**
 
@@ -159,15 +155,11 @@
 | Auto release | `Выключено` |
 | Ratio | `3.0 : 1` |
 | Knee size | `5.0 dB` |
-| Detector input | `Main Input L+R` |
 | Lowpass | `20000 Hz` |
 | Highpass | `80 Hz` |
 | RMS size | `5.0 ms` |
 | Threshold | `-20.0 dB` |
 | Wet | `+10.0 dB` |
-| Dry | `-inf dB` |
-| AA | `None` |
-| Limit output | `Выключено` |
 
 **Визуальный пример настроек:**
 
