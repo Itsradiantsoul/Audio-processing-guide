@@ -1,0 +1,2 @@
+VSTPlugin: Library reagate-standalone.dll Hipass 0.004 Thresh 0.00562341 Attack 0.006 Release 0.02 Pre-open 0 Hold 0.06 Lowpass 0.65 SignIn 0 AudIn 0 Dry 3.16228e-08 Noise 3.16228e-08 Wet 1 Hystrsis 1.41254 PreviewF 0 "RMS size" 0.001 Usemidi 0 MidiNote 0 MidiChan 0 InvrtWet 0
+VSTPlugin: Library reacomp-standalone.dll Hipass 0.004 Thresh 0.1 Ratio 0.020202 Attack 0.02 Release 0.02 Pre-comp 0 resvd 0 Lowpass 1 SignIn 0 AudIn 0 Dry 3.16228e-08 Wet 3.16228 AutoMkUp 0 PreviewF 0 "RMS size" 0.005 Knee 0.208333 AutoRel 0 ClsAttk 1 AntiAls 0
