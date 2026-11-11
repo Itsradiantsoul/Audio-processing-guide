@@ -66,7 +66,8 @@
    <img width="432" height="209" alt="image" src="https://github.com/user-attachments/assets/a2ec512c-5a18-42a5-af1c-ea64b8c30d54" />
 
 4. Нажмите на значок голубой папки.
-
+   
+   📷 Визуальный пример — на какой значок нужно нажать:
    <img width="341" height="51" alt="image" src="https://github.com/user-attachments/assets/2eefc85e-0033-4a93-b80f-172036b0d228" />
 
 6. В открывшемся окне выберите место для хранения конфигурации.
