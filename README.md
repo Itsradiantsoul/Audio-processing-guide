@@ -104,7 +104,7 @@
 
    **📷 Визуальный пример — добавление VST-плагина:**
    
-   <img width="321" height="290" alt="image" src="https://github.com/user-attachments/assets/4afcb3c9-04b9-4459-a697-f2d4aec75471" />
+   <img width="316" height="259" alt="image" src="https://github.com/user-attachments/assets/59c061f3-8a21-4ccb-88e7-efe4412611a4" />
 
 4. Нажмите на значок голубой папки.
 
