@@ -63,7 +63,7 @@
 
    **📷 Визуальный пример — меню добавления Include:**
    
-   <img width="432" height="209" alt="image" src="https://github.com/user-attachments/assets/a2ec512c-5a18-42a5-af1c-ea64b8c30d54" />
+   <img width="426" height="199" alt="image" src="https://github.com/user-attachments/assets/5cfa3e30-8529-490d-bcfb-8b7f615cb496" />
 
 5. Нажмите на значок голубой папки.
 
