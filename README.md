@@ -92,7 +92,7 @@
 
 Нажмите на зелёную стрелку рядом с подключённым файлом конфигурации, чтобы перейти к настройке VST-плагинов.
 
-📷 Визуальный пример — переход к настройке подключённой конфигурации:
+**📷 Визуальный пример — переход к настройке подключённой конфигурации:**
 
 <img width="319" height="51" alt="image" src="https://github.com/user-attachments/assets/3d9fa120-d611-49ff-ae51-aa1f8968ffd6" />
 
@@ -130,7 +130,7 @@
 | RMS size | `1` |
 | Threshold | `-45.0 dB` |
 
-**Визуальный пример настроек:**
+**📷 Визуальный пример настроек:**
 
 <img width="518" height="407" alt="2  ReaGate" src="https://github.com/user-attachments/assets/3f9d4b85-09fd-41b5-829a-d4c15bbc8c5a" />
 
@@ -169,7 +169,7 @@
 | Threshold | `-20.0 dB` |
 | Wet | `+10.0 dB` |
 
-**Визуальный пример настроек:**
+**📷 Визуальный пример настроек:**
 
 <img width="518" height="407" alt="7  ReaComp" src="https://github.com/user-attachments/assets/d028e497-abba-4165-bced-b3aca886e26e" />
 
