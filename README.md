@@ -62,13 +62,11 @@
 3. Выберите **Control → Include (Include configuration file)**.
 
    **📷 Визуальный пример — меню добавления Include:**
-
    <img width="432" height="209" alt="image" src="https://github.com/user-attachments/assets/a2ec512c-5a18-42a5-af1c-ea64b8c30d54" />
 
 4. Нажмите на значок голубой папки.
 
    **📷 Визуальный пример — на какой значок нужно нажать:**
-
    <img width="341" height="51" alt="image" src="https://github.com/user-attachments/assets/3d211895-8dfe-4392-b577-d2eaf8188928" />
 
 6. В открывшемся окне выберите место для хранения конфигурации.
@@ -102,7 +100,6 @@
 2. Выберите **Plugins → VST plugin**.
 
    **📷 Визуальный пример — добавление VST-плагина:**
-
    <img width="321" height="290" alt="image" src="https://github.com/user-attachments/assets/4afcb3c9-04b9-4459-a697-f2d4aec75471" />
 
 3. Нажмите на значок голубой папки.
@@ -130,7 +127,6 @@
 | Threshold | `-45.0 dB` |
 
 **Визуальный пример настроек:**
-
 <img width="518" height="407" alt="2  ReaGate" src="https://github.com/user-attachments/assets/3f9d4b85-09fd-41b5-829a-d4c15bbc8c5a" />
 
 ## 5. Добавление ReaComp
@@ -169,7 +165,6 @@
 | Wet | `+10.0 dB` |
 
 **Визуальный пример настроек:**
-
 <img width="518" height="407" alt="7  ReaComp" src="https://github.com/user-attachments/assets/d028e497-abba-4165-bced-b3aca886e26e" />
 
 > [!WARNING]
